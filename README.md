@@ -15,7 +15,7 @@ SysParqueo es una aplicación desarrollada en Java con PostgreSQL como base de d
 - **Lenguaje de programación**: Java
 - **Base de datos**: PostgreSQL
 - **Frameworks y librerías**:
-  - JavaFX para la interfaz gráfica (opcional, si aplica)
+  - JavaFX para la interfaz gráfica 
   - JDBC para la conexión con la base de datos
 
 ## Requisitos previos
@@ -47,41 +47,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 5. Compila y ejecuta el proyecto desde tu IDE.
 
-## Uso
 
-1. Inicia sesión en la aplicación con las credenciales predeterminadas o las configuradas durante la instalación.
-2. Registra nuevos vehículos, tarifas o genera reportes según sea necesario.
-
-## Capturas de pantalla (opcional)
-
-Incluye imágenes o gifs que muestren la interfaz gráfica del proyecto.
-
-## Contribuciones
-
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tu funcionalidad o corrección de errores:
-
-   ```bash
-   git checkout -b nombre-de-tu-rama
-   ```
-
-3. Realiza tus cambios y haz un commit:
-
-   ```bash
-   git commit -m "Descripción de tus cambios"
-   ```
-
-4. Envía tus cambios al repositorio remoto:
-
-   ```bash
-   git push origin nombre-de-tu-rama
-   ```
-
-5. Crea un Pull Request explicando tus cambios.
-
-## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
